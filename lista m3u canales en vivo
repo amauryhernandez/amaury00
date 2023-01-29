@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/H-2.png/revision/latest?cb=20210516223630&path-prefix=es",CANAL 2 (TELEANTILLAS)
+#EXTINF:-66 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/H-2.png/revision/latest?cb=20210516223630&path-prefix=es",CANAL 2 (TELEANTILLAS)
 https://stream-08.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qaV63nllLTH5FxOCNRUzbXYSAzP74-sbjT5OkGh8pwj)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
 
 #EXTINF:-2 tvg-logo="http://thedominicanchannels.net/wp-content/uploads/2014/09/canal41.jpg",CANAL 4 (CERTV)
@@ -15,5 +15,5 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w1403063659.
 #EXTINF:-5 tvg-logo="https://seeklogo.com/images/A/antena-7-logo-D598139C57-seeklogo.com.png" group-title="Undefined",CANAL 7 (ANTENA LATINA)
 https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_270.m3u8
 
-#EXTINF:-5 tvg-logo="https://seeklogo.com/images/A/antena-7-logo-D598139C57-seeklogo.com.png" group-title="Undefined",CANAL 88 (ANTENA LATINA)
+#EXTINF:-77 tvg-logo="https://seeklogo.com/images/A/antena-7-logo-D598139C57-seeklogo.com.png" group-title="Undefined",CANAL 88 (ANTENA LATINA)
 https://www.dailymotion.com/embed/video/x809r6i?autoplay=1
