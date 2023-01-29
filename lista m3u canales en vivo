@@ -14,3 +14,6 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w1403063659.
 
 #EXTINF:-5 tvg-logo="https://seeklogo.com/images/A/antena-7-logo-D598139C57-seeklogo.com.png" group-title="Undefined",CANAL 7 (ANTENA LATINA)
 https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_270.m3u8
+
+#EXTINF:-5 tvg-logo="https://seeklogo.com/images/A/antena-7-logo-D598139C57-seeklogo.com.png" group-title="Undefined",CANAL 88 (ANTENA LATINA)
+https://www.dailymotion.com/embed/video/x809r6i?autoplay=1
