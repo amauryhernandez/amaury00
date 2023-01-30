@@ -15,7 +15,8 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoUFeAHJ3RIBpAYE2DdZT6_Rn_p
 #EXTINF:-5 tvg-logo="https://seeklogo.com/images/A/antena-7-logo-D598139C57-seeklogo.com.png" group-title="Undefined",CANAL 7 (ANTENA LATINA)
 https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_270.m3u8
 
-
+#EXTINF:-5 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord-300x169.jpg",CANAL 8 (TELENORD)
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/telenord8.m3u8
 
 
 #EXTINF:-6 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Color_Visi%C3%B3n_2014_%C3%ADcono.png/revision/latest/scale-to-width-down/60?cb=20200919163038&path-prefix=es",CANAL 9 (COLOR VISION)
