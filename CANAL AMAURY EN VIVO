@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/H-2.png/revision/latest?cb=20210516223630&path-prefix=es",CANAL 2 (TELEANTILLAS)
-https://stream-05.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2vR4OzC82rVn5zKDHaZ1rlB5xfx_98Bul-ffM5yXj77_)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
+https://stream-07.dc3.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2nBlJCGw51wH2Yz0FpWxX30-qQ8_mXar3JDNudNai8uq)/dm/3/x809r6i/s/live-0.m3u8
 
 #EXTINF:-2 tvg-logo="http://thedominicanchannels.net/wp-content/uploads/2014/09/canal41.jpg",CANAL 4 (CERTV)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1320041297_b3203072.m3u8
 
 #EXTINF:-3 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es",CANAL 5 (TELEMICRO)
-https://playback.akamaized.net/streams/27456795_10633780_lsif6epcsj4jcpih4o3_1/media/27456795_10633780_lsif6epcsj4jcpih4o3_1@5256000p.m3u8?dw=14400&ts=1674939600&hdnts=exp=1675113708~acl=/streams/27456795_10633780_lsif6epcsj4jcpih4o3_1/media*~hmac=63171f3aa9d0573a78f3f64f4aecb381f79ff8258714a208e511aee4556b3ecb
+https://playback.akamaized.net/streams/27456795_10633780_lsi3mxcw2ujawt0qeio_1/master.m3u8?dw=14400&hdnts=exp=1675119284~acl=/streams/27456795_10633780_lsi3mxcw2ujawt0qeio_1/master.m3u8*~hmac=808b04d6bea38cce436ea80d86dc3f8e50f212aaf52df30e413db9c1277519e2
 
 #EXTINF:-4 tvg-logo="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.18169-9/17554341_794823577338209_6034267365994545532_n.png?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_ohc=AgjYRc-3YEYAX-iS2Bg&_nc_ht=scontent.fsti5-1.fna&oh=00_AfBkKdW-uAGxxguyaf8SrNfn73RShKYUW9RrByG8Q3z08w&oe=63FD0CBA",CANAL 6 (TELEMUNDO)
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoUFeAHJ3RIBpAYE2DdZT6_Rn_psEe7_1xv3COFgkyoMvt312Wxr2zZMi44qZuXrsW9xR2NUSSseBW_8mIOzCx8aig_VHDMjUVjBlYWnsUnRvsx14ZKVOBGHZhCqPL7RMQl8-rNuw429zDU0G4M4zWVAwTznuwAtvrVC_JE-TlQOzPQj1gcgvhhwuV8Q_jojF5QdO1awevnOYJ8geGhO3x3cmkhMuA4x18avJZzQH2XR8aRoO_GMCyrAATAmF-taz96BB2P1Jr3s9QIjAlsAWK7lKq2L212jLZWJcnawWD9ar5GUzsfQrqvk0LugPR9RAmeuGO5HuPnLBXbPtCR2s_DvbXJ2uWMatiPqcZwmJkjkBhiqmuUQFkM4En-N9bzt7dQApbNyrdZQRVFuekYx82Pjne-Zh55SASB5Ot7Wh5FNl7IGdP-ZC6ChULUaCJu7REiT-2oQ04ACr3EspfuE0w5eOQfmmjmzmaujHwegVcDdMnfNQndSPB71EKySMN9TtNiOkKbB3pzwyS4oBnqxsLjcuBrsqYCLjuCeMHpYDXHc4FGDY9FYiYOiuS09keXN6J7il-AKeE_F-cQk8BaNBaRSiMaB7C2zHEroLVSaGN3npfmdnZAEqaZGdknHr9nWvFk0CisRCr21IXFGsU6e1IDT0I_lAhlHIAria7hqRe38WRsRxxtRQoLB6IaMrMOpb2Evgrvm-_dmUuRz3EL3cInMnGGPiiAnHo9sY6gNygS3H7BL_jKqzdourSX-AsB1G_W1zxSf700L83BEziESyWAp5m3t3PAQun6FNqPB7CH0wNGaK5MvjDHIRQn49VRmfPBuk7ia7zCvkQ7fEEolpqaRnvGTCSrhGgwAgzdy98dOMecjZhogASoJdXMtZWFzdC0xMJUE.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoYFZLH7NRfHtih23c6cw9jwxpUrWsQ8m0HjsX9gohZCTPeCYghQuvIGd9kHqjgsUlCFifgM4v788x0wYQV6jYbGUZTXlupoyoJLa7xY8tdxov2SKL8skPTFm6px9KXvWZf0qM2MDnCaIgTHL8fS2DG3ZVOeTu16YapQfN-5mrhnxcNHqLWri85gMSF2--_7XWsYfOrPy6fdZoCO4ZceZQIzXJSeKutGcd34yqNhcHUdzd_-RBfphivss7U3yyz_Qf7aANw7RvtJ1o_oLsiaSpJ2IOB8H_LI5ApFoBGKyMV3Cjr4k0zg7X35A6bW4_3ikM9tBK3bAezU4--eaBCexX9swpZehqQyNtrxqj5LaAMx0oA7gXZtDf5TuugzEYPJZXZRVkaViOHdU4sanIoBCaOk5ZQnezgx_3JUihi8JNemj6rgSmYlJc3R3sKISh3XgVtsHzqM8qeXmyL7PI2YoJPSEca7dfj4fkUJM_z0hcYx6g4ppXGYH4dcc8SL69lqyRopv4b5uEzoqTweTvs13XZx-A-8dBOIW3S0BNwDpmPg2VfX_xdvPYF2mCyoVdHMceZwcNstmBDQ-YtJVoNTBdZbIouOXlbnZgeyqqhjaKTJoMKiHHcFJKzYHHzeVazw7_o7AS7W2LLy4Gscp4yY362m0hjGOcEElSNeWn_-BKtR8us7lIXFlPmJnIVMRSfIQtDwLsjsrWnp2q7GN_SS_NnYDLp3gzcQr5CuotezZLdJXsFR8Hbc6npw-FI1scSeH5oB57SwrnMqWJtMSepCekKfd9JGelflOKD7JMci4wdKvfZ39e2qGHaljTUOSXIMH8_hsnZz84zAz8auv-iKUJ7vJwlMGTqWBxoMLQLXSKqYSSzDGcbjIAEqCXVzLWVhc3QtMTCWBA.m3u8
 
 #EXTINF:-5 tvg-logo="https://seeklogo.com/images/A/antena-7-logo-D598139C57-seeklogo.com.png" group-title="Undefined",CANAL 7 (ANTENA LATINA)
 https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_270.m3u8
@@ -20,20 +20,20 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/telenord8.m3u8
 
 
 #EXTINF:-6 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Color_Visi%C3%B3n_2014_%C3%ADcono.png/revision/latest/scale-to-width-down/60?cb=20200919163038&path-prefix=es",CANAL 9 (COLOR VISION)
-https://stream-01.ix7.dailymotion.com/sec(O-7bth6lxCIslucX64-RY_yY81Tf0zfkYswscb76pfvRM5BNsAJhjWKGm7rBlei5)/dm/3/x7gy059/d/live-2.m3u8#cell=lcore
+https://stream-08.dc3.dailymotion.com/sec(O-7bth6lxCIslucX64-RYx-VBQXQW45YW7EO8hdv_6yYR7LVfWqTXr8ANBROOnmH)/dm/3/x7gy059/d/live-2.m3u8
 
 
 #EXTINF:-7 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord-300x169.jpg",CANAL 10 (TELENORD)
-http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1255966523.m3u8
 
 #EXTINF:-8 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png",CANAL 11 (TELESISTEMA)
-https://stream-01.dc3.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2nl89DILND4erMW-ZRmxngVJeuvhOVU_wcouvOYkGk-E)/dm/3/x80ac48/s/live-2.m3u8#cell=lcore
+https://stream-10.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ozNJ9J_-pWFegS7XBykFYvKJk0F3_9iHJhwWi-x5eKu)/dm/3/x80ac48/s/live-1.m3u8
 
 #EXTINF:-9 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord-300x169.jpg",CANAL 12 (TELENORD)
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w52625208.m3u8
 
 #EXTINF:-10 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Telecentro_RD_1999.png/revision/latest?cb=20170520155140",CANAL 13 (TELECENTRO)
-https://playback.akamaized.net/streams/27456795_10501048_lsi12024sccga0vep3e_1/media/27456795_10501048_lsi12024sccga0vep3e_1@2756000p.m3u8?dw=14400&ts=1674943200&hdnts=exp=1675119376~acl=/streams/27456795_10501048_lsi12024sccga0vep3e_1/media*~hmac=fa3e9ee2095a60d7c0fa4a208fa27e1e6c769e4df7f3c2ebb53ee59a77b850b0
+https://playback.akamaized.net/streams/27456795_10501048_lsivbdcm0d54aio8t7z_1/media/27456795_10501048_lsivbdcm0d54aio8t7z_1@2756000p.m3u8?dw=14400&ts=1675116000&hdnts=exp=1675292292~acl=/streams/27456795_10501048_lsivbdcm0d54aio8t7z_1/media*~hmac=fec21a5166b6328ea7eed02008fc9fe7cb2a50be55649249aaa5bf59cdb413a9
 
 #EXTINF:-11 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2021/01/29161548/digital-15-300x199.jpg",CANAL 15 (DIGITAL 15)
-https://playback.akamaized.net/streams/27456795_10633798_lsiya0za61qmojvjc8m_1/media/27456795_10633798_lsiya0za61qmojvjc8m_1@5256000p.m3u8?dw=14400&ts=1675015200&hdnts=exp=1675188791~acl=/streams/27456795_10633798_lsiya0za61qmojvjc8m_1/media*~hmac=cbdf19212bd11a9aff64f27e9a01d31a61b6804cb78da5862313509c697d28c5
+https://playback.akamaized.net/streams/27456795_10633798_lsium2njfbauc9jbfs7_1/media/27456795_10633798_lsium2njfbauc9jbfs7_1@1756000p.m3u8?dw=14400&ts=1675119600&hdnts=exp=1675292417~acl=/streams/27456795_10633798_lsium2njfbauc9jbfs7_1/media*~hmac=6b8ed716c1749bf037285b1be05b1a3f3bf9b74ddc0260486eb76e883a553035
