@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/H-2.png/revision/latest?cb=20210516223630&path-prefix=es",CANAL 2 (TELEANTILLAS)
-https://stream-08.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qaV63nllLTH5FxOCNRUzbXYSAzP74-sbjT5OkGh8pwj)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
+https://stream-05.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2vR4OzC82rVn5zKDHaZ1rlB5xfx_98Bul-ffM5yXj77_)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
 
 #EXTINF:-2 tvg-logo="http://thedominicanchannels.net/wp-content/uploads/2014/09/canal41.jpg",CANAL 4 (CERTV)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1320041297_b3203072.m3u8
