@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://stream-09.dc3.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2jYqZlfNk3kXvjifBcNukOEbbyBXC1aaUNBgcn6jjTbA)/dm/3/x809r6i/s/live-1.m3u8",CANAL 2 (TELEANTILLAS)
-https://stream-08.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qaV63nllLTH5FxOCNRUzbXYSAzP74-sbjT5OkGh8pwj)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
+https://stream-02.ix7.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsS7pB0ogmVhXbbZ_XJ0eKywAhq8kBMCv0URDEIFyI8sv)/dm/3/x8mwmvs/s/live-1.m3u8
 
 #EXTINF:-2 tvg-logo="http://thedominicanchannels.net/wp-content/uploads/2014/09/canal41.jpg",CANAL 4 (CERTV)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1320041297_b3203072.m3u8
