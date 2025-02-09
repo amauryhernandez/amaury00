@@ -1,9 +1,11 @@
+https://www.telemundopr.com/noticias/puerto-rico/mira-aqui-nuestra-programacion-en-vivo-3/2019645/
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKDdCnCvCDJWsLyRr5gyaVcgYCqaoVI2vVA&usqp=CAU",CANAL 2 (TELEANTILLAS)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
+https://stream-02.ix7.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsS7pB0ogmVhXbbZ_XJ0eKywAhq8kBMCv0URDEIFyI8sv)/dm/3/x8mwmvs/s/live-1.m3u8
 
 #EXTINF:-2 tvg-logo="http://thedominicanchannels.net/wp-content/uploads/2014/09/canal41.jpg",CANAL 4 (CERTV)
-https://rapidplayers.com/e/s60fsbmdd99v
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1320041297_b3203072.m3u8
 
 #EXTINF:-3 tvg- logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?resize=500%2C300&ssl=1",CANAL 5 (TELEMICRO)
 https://playback.akamaized.net/streams/27456795_10633780_lsicx3n02zsmd6y40o1_1/media/27456795_10633780_lsicx3n02zsmd6y40o1_1@2756000p.m3u8?dw=14400&ts=1699707600&hdnts=exp=1699881337~acl=/streams/27456795_10633780_lsicx3n02zsmd6y40o1_1/media*~hmac=87496737fc3130e18a1b6075716720df0e078eb02106a820c2afffb50def627d
